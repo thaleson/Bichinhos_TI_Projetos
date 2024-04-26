@@ -48,7 +48,7 @@ cd Bichinhos_TI_Projetos
 
 4. Agora você pode abrir o diretório no seu editor de código e começar a desenvolver!
 
-### Como Contribuir
+## Como Contribuir
 
 1. Depois de ter concluído o projeto, você pode adicionar as suas alterações ao repositório. Primeiro, adicione os arquivos alterados:
 
