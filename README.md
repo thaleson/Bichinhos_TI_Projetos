@@ -30,6 +30,47 @@ Este repositório contém os seguintes conjuntos de dados:
 
 Os conjuntos de dados estão disponíveis neste repositório para download gratuito. Os praticantes podem baixar/forkar os conjuntos de dados de seu interesse e começar a trabalhar em suas análises.
 
+## Como Começar
+
+1. Primeiro, você precisa fazer um fork deste repositório para a sua conta do GitHub. Você pode fazer isso clicando no botão "Fork" no canto superior direito da página do repositório.
+
+2. Depois de ter feito o fork, você pode clonar o repositório para a sua máquina local. Abra o terminal e execute o seguinte comando (substitua `seu-username` pelo seu nome de usuário do GitHub):
+
+```bash
+git clone https://github.com/seu-username/Bichinhos_TI_Projetos.git
+```
+
+3. Navegue até o diretório:
+
+```bash
+cd Bichinhos_TI_Projetos
+```
+
+4. Agora você pode abrir o diretório no seu editor de código e começar a desenvolver!
+
+### Como Contribuir
+
+1. Depois de ter concluído o projeto, você pode adicionar as suas alterações ao repositório. Primeiro, adicione os arquivos alterados:
+
+```bash
+git add .
+```
+
+2. Em seguida, faça um commit das suas alterações (substitua sua-mensagem-de-commit pela sua mensagem)
+
+```bash
+git commit -m "sua-mensagem-de-commit"
+```
+
+3. Agora você pode enviar suas alterações para o GitHub
+
+```bash
+git push origin main
+```
+
+4. Finalmente, você pode ir para a página do seu fork no GitHub e clicar no botão "New pull request" para abrir um pull request com as suas alterações. Certifique-se de selecionar o repositório original como o repositório base para o seu pull request.
+
+
 ## Contribuição
 
 Se você tem um conjunto de dados interessante que gostaria de compartilhar com a comunidade Bichinhos da TI, sinta-se à vontade para contribuir com este repositório. Basta abrir uma issue ou enviar um pull request com os detalhes do conjunto de dados e uma breve descrição.
