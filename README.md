@@ -10,7 +10,7 @@ O objetivo deste projeto é oferecer uma variedade de conjuntos de dados interes
 
 Este repositório contém os seguintes conjuntos de dados:
 
-### Quinzena 18/03
+### Quinzena 16/03
 
 1. Conjunto de Dados de Clima:
    - **Descrição:** Este conjunto de dados contém informações meteorológicas, incluindo data/hora, temperatura, ponto de orvalho, umidade relativa, velocidade do vento, visibilidade, pressão atmosférica e condição do tempo.
@@ -25,6 +25,11 @@ Este repositório contém os seguintes conjuntos de dados:
 
 1. Conjunto de Dados de Preço de Imóveis
    - **Descrição:** Este conjunto de dados contém informações sobre imóveis, incluindo detalhes como como tamanho da propriedade, número de quartos, área do terreno, qualidade do bairro e características específicas da construção. Com base nessas informações, o objetivo é prever com precisão o preço final de venda de imóveis.
+
+### Quinzena 27/04
+
+1. Conjunto de Dados de Classificação de Flores Iris
+   - **Descrição:** Este conjunto de dados contém informações sobre três espécies diferentes da flor iris, contendo 50 amostrar de cada assim como algumas propriedades das flores.
 
 ## Como Usar
 
