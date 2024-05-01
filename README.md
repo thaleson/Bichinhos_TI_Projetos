@@ -23,12 +23,12 @@ Este repositório contém os seguintes conjuntos de dados:
 
 ### Quinzena 30/03
 
-1. Conjunto de Dados de Preço de Imóveis
+1. Conjunto de Dados de Preço de Imóveis:
    - **Descrição:** Este conjunto de dados contém informações sobre imóveis, incluindo detalhes como como tamanho da propriedade, número de quartos, área do terreno, qualidade do bairro e características específicas da construção. Com base nessas informações, o objetivo é prever com precisão o preço final de venda de imóveis.
 
 ### Quinzena 27/04
 
-1. Conjunto de Dados de Classificação de Flores Iris
+1. Conjunto de Dados de Classificação de Flores Iris:
    - **Descrição:** Este conjunto de dados contém informações sobre três espécies diferentes da flor iris, contendo 50 amostrar de cada assim como algumas propriedades das flores.
 
 ## Como Usar
