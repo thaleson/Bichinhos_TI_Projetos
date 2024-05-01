@@ -14,4 +14,4 @@ O objetivo deste projeto é criar um modelo para prever a espécie da flor basea
 
 ### Fonte
 
-Os dados utilizados neste projeto foram obtidos a partir da competição "House Prices: Advanced Regression Techniques" no Kaggle. Você pode encontrar o conjunto de dados completo e mais informações sobre a competição [aqui](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data).
+Os dados utilizados neste projeto foram obtidos a partir do "Iris Species" no Kaggle. Você pode encontrar o conjunto de dados completo e mais informações [aqui](https://www.kaggle.com/datasets/uciml/iris/data).
